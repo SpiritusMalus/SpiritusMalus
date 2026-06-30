@@ -72,8 +72,5 @@ mobile    ·  TypeScript · React Native (Expo) · Next.js
 ```
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SpiritusMalus&show_icons=true&hide_border=true&title_color=0E8A30&icon_color=D8513A&text_color=6B6256&bg_color=FBF8F1" height="150">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpiritusMalus&layout=compact&hide_border=true&title_color=0E8A30&text_color=6B6256&bg_color=FBF8F1" height="150">
-
+<sub>Building <a href="https://family-pie.ru">family-pie.ru</a> — calm software, made with care.</sub>
 </div>
