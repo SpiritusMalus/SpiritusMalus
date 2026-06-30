@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="family-pie — calm, private apps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FBF8F1"/>
+      <stop offset="1" stop-color="#F2ECE0"/>
+    </linearGradient>
+    <linearGradient id="ink" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0E8A30"/>
+      <stop offset="0.55" stop-color="#B8442E"/>
+      <stop offset="1" stop-color="#D8513A"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="898" height="198" rx="22" fill="url(#bg)" stroke="#E4DBCB" stroke-width="2"/>
+
+  <!-- the real family-pie logo (pulled from site/index.html) -->
+  <g transform="translate(56,46) scale(2.25)">
+    <path d="M24,24 L24,2 A22,22 0 0 1 43.05,13 Z" fill="#0E8A30"/>
+    <path d="M24,24 L43.05,13 A22,22 0 0 1 43.05,35 Z" fill="#D8513A"/>
+    <path d="M24,24 L43.05,35 A22,22 0 0 1 24,46 Z" fill="#E3A52C"/>
+    <path d="M24,24 L24,46 A22,22 0 0 1 4.95,35 Z" fill="#E8E1D3"/>
+    <path d="M24,24 L4.95,35 A22,22 0 0 1 4.95,13 Z" fill="#E2DACB"/>
+    <path d="M24,24 L4.95,13 A22,22 0 0 1 24,2 Z" fill="#EDE7DA"/>
+    <circle cx="24" cy="24" r="22" fill="none" stroke="#F4F1EA" stroke-width="2.4"/>
+    <line x1="24" y1="24" x2="24" y2="2" stroke="#F4F1EA" stroke-width="2.4"/>
+    <line x1="24" y1="24" x2="43.05" y2="13" stroke="#F4F1EA" stroke-width="2.4"/>
+    <line x1="24" y1="24" x2="43.05" y2="35" stroke="#F4F1EA" stroke-width="2.4"/>
+    <line x1="24" y1="24" x2="24" y2="46" stroke="#F4F1EA" stroke-width="2.4"/>
+    <line x1="24" y1="24" x2="4.95" y2="35" stroke="#F4F1EA" stroke-width="2.4"/>
+    <line x1="24" y1="24" x2="4.95" y2="13" stroke="#F4F1EA" stroke-width="2.4"/>
+  </g>
+
+  <text x="208" y="92" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="url(#ink)">family-pie</text>
+  <text x="210" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="400" fill="#6B6256">calm, private apps for everyday life</text>
+  <text x="210" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#9A9182">Python backend · LLM features · React Native</text>
+</svg>
