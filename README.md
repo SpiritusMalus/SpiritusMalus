@@ -17,7 +17,7 @@ My products live under **[Family Pie](https://family-pie.ru)**. I also work on p
 
 `React Native` · `Expo` · `TypeScript` · `SQLite` · `Node.js`
 
-[Product](https://family-pie.ru/driftora/) · [Source](https://github.com/SpiritusMalus/Driftora)
+[Subscription & details](https://family-pie.ru/driftora/subscription/) · [Source](https://github.com/SpiritusMalus/Driftora)
 
 ### [Sufler](https://family-pie.ru/sufler/)
 **AI assistance during technical conversations.** A desktop overlay for Windows and macOS that transcribes speech, analyzes a selected screen region and streams contextual answers without switching to a browser. Available in beta; source code is private.
