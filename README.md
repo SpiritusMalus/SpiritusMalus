@@ -1,76 +1,61 @@
-<div align="center">
-
 <a href="https://family-pie.ru">
-  <img src="./assets/header.svg" alt="family-pie — calm, private apps" width="100%">
+  <img src="./assets/header.svg" alt="Family Pie — mobile apps, desktop tools and AI" width="100%">
 </a>
 
-<br><br>
+## Hi, I'm Eugene
 
-**Python backend developer.** I build the studio behind [**family-pie.ru**](https://family-pie.ru) — calm, private apps for everyday life — end to end: FastAPI services, LLM features, and the React Native apps on top. *Also building private commercial projects.*
+**Python backend developer and independent product builder.** I build APIs, AI integrations, mobile apps and desktop tools — from the first prototype to deployment and ongoing maintenance.
 
-<a href="https://family-pie.ru"><img src="https://img.shields.io/badge/family--pie.ru-0E8A30?style=for-the-badge&logo=safari&logoColor=white"></a>
-<a href="mailto:leos2111@gmail.com"><img src="https://img.shields.io/badge/Email-B8442E?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://t.me/SpiritusMalus21"><img src="https://img.shields.io/badge/Telegram-E3A52C?style=for-the-badge&logo=telegram&logoColor=white"></a>
+My products live under **[Family Pie](https://family-pie.ru)**. I also work on private commercial projects, with a focus on useful software, thoughtful interfaces and reliable infrastructure.
 
-</div>
+[Studio & products](https://family-pie.ru) · [Email](mailto:leos2111@gmail.com) · [Telegram](https://t.me/SpiritusMalus21)
 
----
+## Featured projects
 
-## ◗ The studio
+### [Driftora](https://github.com/SpiritusMalus/Driftora)
+**A personal space for body and mind.** A mobile app for nutrition, weight, mood and journaling, with AI food logging and encrypted local storage. The core journal works on your device; optional AI features use a backend service.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`React Native` · `Expo` · `TypeScript` · `SQLite` · `Node.js`
 
-### 🥋 Relo Dojo
-<sub>**English for IT relocation**</sub>
+[Product](https://family-pie.ru/driftora/) · [Source](https://github.com/SpiritusMalus/Driftora)
 
-Gamified English for developers moving abroad — five honest minutes a day, exercises built from your own role and goals, XP, streaks and belts from white to black.
+### [Sufler](https://family-pie.ru/sufler/)
+**AI assistance during technical conversations.** A desktop overlay for Windows and macOS that transcribes speech, analyzes a selected screen region and streams contextual answers without switching to a browser. Available in beta; source code is private.
 
-<sub>`FastAPI` · `Expo / React Native` · `LLM`</sub>
+`Electron` · `React` · `TypeScript` · `Deepgram` · `OpenRouter`
 
-![accent](https://img.shields.io/badge/-Relo%20Dojo-0E8A30?style=flat-square)
+[Download & setup](https://family-pie.ru/sufler/)
 
-</td>
-<td width="50%" valign="top">
+### [Lumen + REST](https://family-pie.ru/rest_lumen/)
+**Softer light and a better rhythm of work.** A desktop app combining screen warmth controls with work and break reminders. Native macOS app, with separate Windows and Linux beta builds. Display controls depend on the platform; source code is private.
 
-### 🕊️ Driftora
-<sub>**Everyday self-care**</sub>
+[Product & downloads](https://family-pie.ru/rest_lumen/) · [Public releases](https://github.com/SpiritusMalus/lumen-rest-downloads)
 
-A calm self-care journal — mood and thoughts (CBT), weight, steps and meals. No ads, no signup; data is end-to-end encrypted and stays on your device.
+## Tools, infrastructure & experiments
 
-<sub>`TypeScript` · `React Native` · `on-device`</sub>
+- **[Family VPN](https://family-pie.ru/vpn/)** — a self-hosted VPN project with a web account area and subscription administration. The service continues to evolve.
+- **Project Hub** — a private workspace for AI-assisted project work, persistent conversations, Git workflows, source synchronization and encrypted recovery.
+- **WALL-E / Walli** — an autonomous desktop robot project in development. Current work explores conversation, memory, device discovery and controlled device integrations; physical hardware validation is still ahead.
+- **[Family Pie website](https://github.com/SpiritusMalus/family-pie)** — product pages, desktop downloads and public legal documents, maintained through GitHub Actions and self-hosted delivery.
 
-![accent](https://img.shields.io/badge/-Driftora-D8513A?style=flat-square)
+## Stack
 
-</td>
-</tr>
-</table>
+| Area | Tools |
+| --- | --- |
+| Backend | Python, FastAPI, Django / DRF, SQLAlchemy, Alembic |
+| Data & infrastructure | PostgreSQL, SQLite, Docker, Caddy, Linux, GitHub Actions |
+| AI | LLM integrations, speech recognition, vision, agent workflows |
+| Mobile & desktop | TypeScript, React Native / Expo, React, Electron |
 
-> Both apps live under one roof at **[family-pie.ru](https://family-pie.ru)** — a small independent studio, static site + legal host on a self-hosted VPS behind Caddy, deployed by CI on every push.
+## Earlier work
 
----
+<details>
+<summary>Relo Dojo — English practice for developers</summary>
 
-## ◗ Stack
+<br>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django%20%2F%20DRF-092E20?style=flat-square&logo=django&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=flat-square&logo=caddy&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+[Relo Dojo](https://github.com/SpiritusMalus/relo_dojo) explores gamified English practice for developers preparing to relocate: personalized exercises, XP, streaks and belt progression.
 
-```text
-backend   ·  Python · FastAPI · Django / DRF · SQLAlchemy · Alembic
-infra     ·  PostgreSQL · Docker · docker-compose · Caddy · CI/CD
-ai        ·  LLM apps (Anthropic / OpenAI / Ollama)
-mobile    ·  TypeScript · React Native (Expo) · Next.js
-```
+`FastAPI` · `Expo / React Native` · `LLM`
 
-<div align="center">
-<sub>Building <a href="https://family-pie.ru">family-pie.ru</a> — calm software, made with care.</sub>
-</div>
+</details>

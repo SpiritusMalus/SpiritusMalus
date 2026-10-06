@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="family-pie — calm, private apps">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="200" viewBox="0 0 900 200" role="img" aria-label="Family Pie — mobile apps, desktop tools and AI">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#FBF8F1"/>
@@ -31,6 +31,6 @@
   </g>
 
   <text x="208" y="92" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="46" font-weight="700" fill="url(#ink)">family-pie</text>
-  <text x="210" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="400" fill="#6B6256">calm, private apps for everyday life</text>
-  <text x="210" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#9A9182">Python backend · LLM features · React Native</text>
+  <text x="210" y="128" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="20" font-weight="400" fill="#6B6256">mobile apps, desktop tools and AI</text>
+  <text x="210" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#9A9182">Python backend · Thoughtful products · Reliable infrastructure</text>
 </svg>
