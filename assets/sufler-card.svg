@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="154" viewBox="0 0 800 154" role="img" aria-labelledby="title desc">
+<title id="title">Sufler</title><desc id="desc">Stay in the conversation</desc>
+<rect x="1" y="1" width="798" height="152" rx="18" fill="#EDF3F8" stroke="#284E6C" stroke-opacity=".22"/>
+<text x="30" y="67" font-family="Verdana,DejaVu Sans,sans-serif" font-size="38" font-weight="700" fill="#284E6C">Sufler</text>
+<text x="32" y="111" font-family="Verdana,DejaVu Sans,sans-serif" font-size="22" fill="#284E6C">Stay in the conversation</text>
+<g transform="translate(563 22)" fill="none" stroke="#284E6C" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<rect x="1" y="2" width="175" height="106" rx="12" fill="#FCFDFE"/><path d="M1 27h175" stroke="#B7CEDF"/>
+<circle cx="15" cy="15" r="2" fill="#284E6C"/><circle cx="24" cy="15" r="2" fill="#7299B6"/><circle cx="33" cy="15" r="2" fill="#B7CEDF"/>
+<path d="M19 59v9m8-17v25m8-36v47m8-32v20m8-15v9"/>
+<rect x="69" y="44" width="88" height="48" rx="8" fill="#E3EDF5" stroke="none"/>
+<path d="M81 58h62M81 68h48M81 78h55" stroke="#7299B6"/>
+</g>
+</svg>
