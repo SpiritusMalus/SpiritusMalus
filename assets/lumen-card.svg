@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="154" viewBox="0 0 800 154" role="img" aria-labelledby="title desc">
+<title id="title">Lumen + REST</title><desc id="desc">Softer light. Time to pause.</desc>
+<rect x="1" y="1" width="798" height="152" rx="18" fill="#F8F3E7" stroke="#715329" stroke-opacity=".22"/>
+<text x="30" y="67" font-family="Verdana,DejaVu Sans,sans-serif" font-size="38" font-weight="700" fill="#715329">Lumen + REST</text>
+<text x="32" y="111" font-family="Verdana,DejaVu Sans,sans-serif" font-size="22" fill="#715329">Softer light. Time to pause.</text>
+<g transform="translate(563 14)" fill="none" stroke="#715329" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="67" cy="65" r="52" fill="#F0E2B9" stroke="none"/>
+<path d="M42 25h49l17 55H25z" fill="#FFFBEE"/>
+<path d="M45 31 34 75m20-44-6 44m19-44v44m13-44 8 44" stroke="#D6BF87" stroke-width="2"/>
+<path d="M67 81v29m-24 6h48M95 83v22"/><circle cx="95" cy="110" r="4" fill="#715329"/>
+<circle cx="157" cy="61" r="28" fill="#FFFBEE" stroke="#AA8850"/><path d="M151 51v20m12-20v20" stroke-width="4"/>
+</g>
+</svg>
