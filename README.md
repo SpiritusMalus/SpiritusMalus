@@ -1,5 +1,5 @@
 <a href="https://family-pie.ru">
-  <img src="./assets/header.svg" alt="Family Pie — mobile apps, desktop tools and AI" width="100%">
+  <img src="./assets/profile-header.svg" alt="Family Pie — mobile apps, desktop tools and AI" width="100%">
 </a>
 
 ## Hi, I'm Eugene
